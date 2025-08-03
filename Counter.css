@@ -1,0 +1,50 @@
+body {
+    background-image: linear-gradient(to right, rgb(0, 255, 145), rgb(0, 200, 255));
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    background-color: seagreen;
+    border-radius: 9px;
+    font-size: larger;
+    padding: 15px;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    background-color: rgb(23, 172, 172);
+}
+
+.formbtn {
+    border-radius: 9px;
+    padding: 10px 25px;
+    font-size: larger;
+}
+.formbtn:hover{
+    background-color: rgb(64, 165, 49);
+
+}
+.valuebox{
+     text-align: center;
+     border-radius: 9px;
+    padding: 10px 10px;
+    font-size: larger;
+}
+ .op{
+    color: black;
+ }
+ .final{
+    background-color: teal  ;
+    color: black;
+      border-radius: 35px;
+    font-size: larger;
+    padding: 7px;
+    margin: 5px;
+ 
+ }
+ .last{
+    gap: 10px;
+ }
+  
+ 
