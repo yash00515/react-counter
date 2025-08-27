@@ -1,0 +1,30 @@
+.mountain{
+    z-index: 1;
+}
+
+.newCard{
+
+    position: relative;
+    top: -550px;
+    z-index: 2;
+}
+.image-container {
+  position: relative;
+  width: 100%;
+  max-width: 900px; /* optional */
+  margin: auto;
+}
+
+.image-container img {
+  width: 100%;
+  display: block;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* exact center */
+  text-align: center;
+  color: white; /* image upar text clear dekhaay */
+}
