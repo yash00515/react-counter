@@ -1,4 +1,6 @@
-  import React, { useState } from 'react'
+
+import React, { useState } from 'react'
+import { useState } from 'react';
 
 const Forms = () => {
     const [form, setForm] = useState({
